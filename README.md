@@ -52,5 +52,5 @@
 
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://github.com/danibog/danibog/blob/main/assets/github-user-contribution-darkMode.svg" /></a>
+<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="1000" src="https://github.com/danibog/danibog/blob/main/assets/github-user-contribution-darkMode.svg" /></a>
 </p>
