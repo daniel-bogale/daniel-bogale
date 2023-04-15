@@ -16,21 +16,18 @@
 
 
 ## Social Media
-[Instagram](https://instagram.com/dannybg1)  -  [LinkedIn](https://linkedin.com/in/daniel-bogale)  -  [Telegram](https://t.me/DannyDman) - [Email](mailto:dannybg090909@gmail.com)
 <p align='center'>
-   <a href="[https://twitter.com/thedaviddias](https://t.me/DannyDman)">
-     <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white)" alt="Telegram badge" />
+   <a href="https://t.me/DannyDman">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Instagram badge" />
   </a>&nbsp;&nbsp;
-   
   <a href="https://www.linkedin.com/in/daniel-bogale">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/dannybg1">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+  <a href="https://instagram.com/danny_bg1">
+     <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Telegram badge" />
   </a>&nbsp;&nbsp;
-   
   <a href="mailto:dannybg090909@gmail.com">
-    <img src="https://img.shields.io/badge/gmail?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube badge" />
+    <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
   </a>&nbsp;&nbsp;
 </p>
 
