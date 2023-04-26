@@ -52,5 +52,5 @@
 
 <!-- Snek -->   
 <p align="center">
-<a href="(https://github.com/danibog)" title="Snek 🐍"><img width="1000" src="https://github.com/danibog/danibog/blob/main/assets/github-user-contribution.svg" /></a>
+<a href="(https://github.com/danibog)" title="Snek 🐍"><img width="1000" src="https://github.com/danibog/danibog/blob/main/assets/github-user-contribution (1).svg" /></a>
 </p>
