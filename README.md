@@ -1,6 +1,6 @@
 # 👋 Hello! I’m Daniel
 
-#### I'm a Frontend developer from India 🇮🇳
+#### I'm a Frontend developer
 
 - 🏢 I'm currently working at **Upwork**
 - 🌱 I’m currently learning Node.js
