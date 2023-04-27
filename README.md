@@ -2,7 +2,7 @@
 
 #### I'm a Frontend developer
 
-- 🏢 I'm currently working at **Upwork**
+- 🏢 I'm currently working on **Upwork**
 - 🌱 I’m currently learning Node.js
 - 👀 I enjoy learning new stuff.
 - ⛴ I'm hardcore Vue (Next) / Tailwind guy
