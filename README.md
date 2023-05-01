@@ -13,8 +13,6 @@
 - 📫 Reach me: [Telegram](https://t.me/DannyDman)
 - ⚡️ Fun fact: I take pleasure in reading a variety of literature.
 
-
-
 ## Social Media
 <p align='center'>
    <a href="https://t.me/DannyDman">
@@ -34,7 +32,6 @@
 ![Danibog's Stats](https://github-readme-stats.vercel.app/api?username=Danibog&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)![Danibog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danibog&theme=tokyonight&hide_border=true)
 
 ![Danibog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danibog&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
