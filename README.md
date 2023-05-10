@@ -34,7 +34,7 @@
 ![Danibog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danibog&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <details>
-  <summary><b>🛠️ Tech Stack</b></summary>
+  <summary><b>🛠️ My Tech Stack</b></summary>
     <p>
 
 | **Category** | **Technologies** |
