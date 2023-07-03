@@ -1,6 +1,6 @@
 # 👋 Hello! I’m Daniel
 
-#### I'm a Frontend developer
+#### I'm a FullStack web developer
 
 - 🏢 I'm currently working on **Upwork**
 - 🌱 I'm currently learning Node.js
