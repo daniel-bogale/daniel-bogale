@@ -5,9 +5,9 @@
 - 🏢 I'm currently working on **Upwork**
 - 🌱 I'm currently learning Node.js
 - 👀 I enjoy learning new stuff
-- ⛴ I'm hardcore Next / Tailwind guy
-- ⚙️ I use daily: `.js`, `.html`, `.css`
-- 🌍 I'm mostly active within the **JS Community** & sometimes in **React**
+- ⛴ I'm a hardcore Next / Tailwind guy
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `jsx`, `.ts`
+- 🌍 I'm mostly active within the **JS Community** &  **React**
 - ❤️ Love contributing in **Open Source** specially in [@GoogleChrome](https://github.com/vinayakkulkarni?org=GoogleChrome&year_list=1)
 - 💬 Ping me about **vue**, **VanilaJs**, **React**, **MERN**
 - 📫 Reach me: [Telegram](https://t.me/DannyDman)
