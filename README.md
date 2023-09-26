@@ -3,7 +3,7 @@
 #### I'm a FullStack web developer
 
 - 🏢 I'm currently working at **3BL Enterprises** and on **Upwork**
-- 🌱 I'm currently learning Node.js
+- 🌱 I'm currently learning Node.js , React Native
 - 👀 I enjoy learning new stuff
 - ⛴ I'm a hardcore Next / Tailwind guy
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `jsx`, `.ts`, `.tsx`
