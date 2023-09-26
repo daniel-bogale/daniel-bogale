@@ -2,7 +2,7 @@
 
 #### I'm a FullStack web developer
 
-- 🏢 I'm currently working on **Upwork**
+- 🏢 I'm currently working on **Upwork** and **3BL Enterprises**
 - 🌱 I'm currently learning Node.js
 - 👀 I enjoy learning new stuff
 - ⛴ I'm a hardcore Next / Tailwind guy
