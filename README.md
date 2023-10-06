@@ -10,7 +10,7 @@
 - 🌍 I'm mostly active within the **JS Community** &  **React**
 - ❤️ Love contributing in **Open Source** specially in [@GoogleChrome](https://github.com/vinayakkulkarni?org=GoogleChrome&year_list=1)
 - 💬 Ping me about **vue**, **VanilaJs**, **React**, **MERN**
-- 📫 Reach me: [Telegram](https://t.me/DannyDman)
+- 📫 Reach me: [Telegram](https://t.me/Daniel_Bogale)
 - ⚡️ Fun fact: I take pleasure in reading a variety of literature.
 
 ## Social Media
