@@ -15,7 +15,7 @@
 
 ## Social Media
 <p align='center'>
-   <a href="https://t.me/DannyDman">
+   <a href="https://t.me/Daniel_Bogale">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Instagram badge" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-bogale">
