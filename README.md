@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning React Native
 - 👀 I enjoy learning new stuff
 - ⛴ I'm a hardcore Next / Tailwind guy
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`,`jsx`, `.ts`, `.tsx`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`,`.jsx`, `.ts`, `.tsx`
 - 🌍 I'm mostly active within the **JS Community** &  **React**
 - ❤️ Love contributing in **Open Source** specially in [@GoogleChrome](https://github.com/vinayakkulkarni?org=GoogleChrome&year_list=1)
 - 💬 Ping me about **vue**, **VanilaJs**, **React**, **MERN**
