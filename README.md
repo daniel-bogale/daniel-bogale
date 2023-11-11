@@ -29,9 +29,9 @@
   </a>&nbsp;&nbsp;
 </p>
 
-![Danibog's Stats](https://github-readme-stats.vercel.app/api?username=Danibog&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)![Danibog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danibog&theme=tokyonight&hide_border=true)
+![daniel-bogale's Stats](https://github-readme-stats.vercel.app/api?username=daniel-bogale&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)![daniel-bogale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-bogale&theme=tokyonight&hide_border=true)
 
-![Danibog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danibog&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![daniel-bogale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-bogale&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <details>
   <summary><b>🛠️ My Tech Stack</b></summary>
@@ -49,5 +49,5 @@
 
 <!-- Snake -->   
 <p align="center">
-<a href="(https://github.com/danibog)" title="Snek 🐍"><img width="1000" src="https://github.com/danibog/danibog/blob/main/assets/github-user-contribution-new.svg"/></a>
+<a href="(https://github.com/daniel-bogale)" title="Snek 🐍"><img width="1000" src="https://github.com/daniel-bogale/daniel-bogale/blob/main/assets/github-user-contribution-new.svg"/></a>
 </p>
