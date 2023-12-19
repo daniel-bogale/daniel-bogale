@@ -12,6 +12,7 @@
 - 💬 Ping me about **vue**, **VanilaJs**, **React**, **MERN**
 - 📫 Reach me: [Telegram](https://t.me/Daniel_Bogale)
 - ⚡️ Fun fact: I take pleasure in reading a variety of literatures
+  
 
 ## Social Media
 <p align='center'>
