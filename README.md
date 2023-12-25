@@ -50,5 +50,5 @@
 
 <!-- Snake -->   
 <p align="center">
-<a href="(https://github.com/daniel-bogale)" title="Snek 🐍"><img width="1000" src="https://github.com/daniel-bogale/daniel-bogale/blob/main/assets/github-user-contribution-new.svg"/></a>
+<a href="(https://github.com/daniel-bogale)" title="Snek 🐍"><img width="1000" src="https://github.com/daniel-bogale/daniel-bogale/blob/main/assets/github-user-contribution.svg"/></a>
 </p>
