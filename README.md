@@ -4,14 +4,11 @@
 
 - 🏢 I'm currently working at **3BL Enterprises** and on **Upwork**
 - 🌱 I'm currently learning React Native
-- 👀 I enjoy learning new stuff
-- ⛴ I'm a hardcore Next / Tailwind guy
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`,`.jsx`, `.ts`, `.tsx`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`,`.jsx`, `.ts`, `.tsx`, `.dart`
 - 🌍 I'm mostly active within the **JS Community** &  **React**
 - ❤️ Love contributing in **Open Source** specially in [@GoogleChrome](https://github.com/vinayakkulkarni?org=GoogleChrome&year_list=1)
-- 💬 Ping me about **vue**, **VanilaJs**, **React**, **MERN**
+- 💬 Ping me about **VanilaJs**, **React**, **MERN**
 - 📫 Reach me: [Telegram](https://t.me/Daniel_Bogale)
-- ⚡️ Fun fact: I take pleasure in reading a variety of literatures
   
 
 ## Social Media
