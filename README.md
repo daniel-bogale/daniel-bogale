@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/daniel-bogale">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/danny_bg1">
+  <a href="https://instagram.com/_danielbogale">
      <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Telegram badge" />
   </a>&nbsp;&nbsp;
   <a href="mailto:dannybg090909@gmail.com">
