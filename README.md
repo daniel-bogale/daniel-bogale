@@ -19,7 +19,8 @@
 [![](https://visitcount.itsvg.in/api?id=daniel-bogale&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/daniel.bogale) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/daniel.bogale) 
 
+![snake gif](https://github.com/daniel-bogale/daniel-bogale/blob/output/github-snake-dark.svg)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
