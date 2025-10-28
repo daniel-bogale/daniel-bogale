@@ -1,6 +1,11 @@
-# 💫 About Me:
-🏢 I'm currently working @ 3BL Enterprises as a senior software developer<br>🌱 I'm currently learning React Native<br>⚙️ I use daily: .js, .jsx, .ts, .tsx, .dart<br>🌍 I'm mostly active within the JS Community & React<br>❤️ Love contributing in Open Source specially in @GoogleChrome<br>💬 Ping me about VanilaJs, React, NextJs, MERN<br>
+# 💫 About Me
 
+🏢 **Currently:** Senior Software Developer at 3BL Enterprises  
+🌱 **Learning:** React Native & sharpening my DSA (Data Structures & Algorithms) skills through A2SV (Africa to Silicon Valley)  
+⚙️ **Tech I use daily:** `.js`, `.jsx`, `.ts`, `.tsx`, `.dart`  
+🌍 **Community:** Actively engaged in the JavaScript & React ecosystems  
+❤️ **Open Source:** Contributor to projects like [BetterAuth](https://github.com/BetterAuth) and VolksStream  
+💬 **Let’s talk about:** Vanilla JS, React, Next.js, and the MERN stack  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-bogale/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/896721669996052501/896721669996052504)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/daniel_bogale_) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/daniel_bogale) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/daniel-bogale) [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/daniel-bogale) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_danielbogale)
