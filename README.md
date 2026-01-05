@@ -85,17 +85,16 @@ Passionate about open source, modern JavaScript ecosystems, and creating impact-
 ![n8n](https://img.shields.io/badge/n8n-%23E74C3C?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## Profile Stats
+[![Streak](https://nirzak-streak-stats.vercel.app?user=daniel-bogale&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/daniel-bogale)
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniel-bogale&show_icons=true&locale=en&theme=dark&hide_border=true" alt="daniel-bogale"width=500px height=200px /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=daniel-bogale&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=450px" alt="daniel-bogale"/></p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=daniel-bogale&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-bogale&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-
-> Check commits below, GitHub stats are sometimes inaccurate.
-
-[![Streak](https://nirzak-streak-stats.vercel.app?user=daniel-bogale&theme=dark&border_radius=1&date_format=j%20M%5B%20Y%5D)](https://github.com/daniel-bogale)
 
 <p>
   <img src="https://github.com/daniel-bogale/daniel-bogale/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/ethiopia/daniel-bogale.svg)](https://user-badge.committers.top/ethiopia/daniel-bogale)
 
 ## 💰 Support My Work
 
