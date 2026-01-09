@@ -13,7 +13,7 @@ Passionate about open source, modern JavaScript ecosystems, and creating impact-
 - **Community:** Active contributor in JavaScript & React communities
 - **Open Source:** Contributor to projects like  
   - [BetterAuth](https://github.com/BetterAuth)  
-  - VolksStream
+  - [VolksStream](https://volks-stream-frontend.vercel.app)
 - **Ask me about:** Vanilla JS, React, Next.js, MERN stack, frontend architecture, scalable APIs, and automation workflows
 
 ## Connect With Me
