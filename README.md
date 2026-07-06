@@ -7,7 +7,6 @@
 - AI & Full Stack Engineer at **AyAutomate**, previously Senior Software Developer at **3BL Enterprises**
 - I build AI agents and automations for client teams, end to end
 - **A2SV** grad, 300+ problems on LeetCode, Codeforces, and AtCoder
-- Stack: TypeScript, React, Next.js, n8n, PostgreSQL, Python (FastAPI, Claude Agent SDK)
 
 ## Projects
 
