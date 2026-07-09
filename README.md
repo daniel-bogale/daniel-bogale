@@ -11,7 +11,6 @@
 ## Projects
 
 - **Dasesa** (survey platform): [dasesa.co](https://dasesa.co)
-- **ForexOnChain** (trading platform): [forexonchain.net](https://forexonchain.net)
 - **Academy Tube** (LMS): [academy-tube-web.vercel.app](https://academy-tube-web.vercel.app)
 - **Ruthful Hearts** (charity platform): [ruthfulhearts.com](https://ruthfulhearts.com)
 - **GradGallery** (graduation memories): [gradgallery.danielbogale.com](https://gradgallery.danielbogale.com)
