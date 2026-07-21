@@ -12,8 +12,7 @@
 
 - **Dasesa** (survey platform): [dasesa.co](https://dasesa.co)
 - **Academy Tube** (LMS): [academy-tube-web.app](https://academy-tube-web.vercel.app)
-- **Ruthful Hearts** (charity platform): [ruthfulhearts.com](https://ruthfulhearts.com)
-- **GradGallery** (graduation memories): [gradgallery.danielbogale.com](https://gradgallery.danielbogale.com)
+- **GradGallery** (graduation memories): [gradgallery.et](https://gradgallery.danielbogale.com)
 
 More at [danielbogale.com](https://danielbogale.com)
 
