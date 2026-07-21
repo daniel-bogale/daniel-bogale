@@ -11,8 +11,9 @@
 ## Projects
 
 - **Dasesa** (survey platform): [dasesa.co](https://dasesa.co)
-- **Academy Tube** (LMS): [academy-tube-web.app](https://academy-tube-web.vercel.app)
 - **GradGallery** (graduation memories): [gradgallery.et](https://gradgallery.danielbogale.com)
+- **Arif Get** (LMS + Freelance marketplace): [arifget.com](https://arifget.com)
+
 
 More at [danielbogale.com](https://danielbogale.com)
 
