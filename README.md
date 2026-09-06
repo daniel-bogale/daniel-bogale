@@ -95,8 +95,6 @@ More at [danielbogale.com](https://danielbogale.com)
   <img src="https://github.com/daniel-bogale/daniel-bogale/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/ethiopia/daniel-bogale.svg)](https://user-badge.committers.top/ethiopia/daniel-bogale)
-
 ## Support my work
 
 If you find my work helpful, you can support me here:
